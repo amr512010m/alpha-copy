@@ -1,0 +1,50 @@
+*{}
+div.nav1{display: flex;  align-items: center;color:black;background-color:#6ecde5;justify-content: space-around;
+height: 65px;}
+body{margin: 0px;
+padding: 0px;}
+div.nav1 a{margin: 9px; color: white; font-size: 23px; font-family:sans-serif;}
+div.text1{margin-left: 363px;}
+div.nav1 img{margin-right: 20px;}
+div.cont1{height: 580px; background-image: url(background.jpg); background-position: center;background-size: cover; margin-bottom: 2px; }
+div.cont1 h1{color: white; padding-top: 189px;  margin: 0px; font-size: 37px; font-family: arial;padding-left: 177px;}
+div.contx{width: 40%; align-items: center; }
+div.contx{height: 209px; }
+div.contx a{border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;padding: 13px; padding-left: 40px; padding-right: 40px; margin-left: 23px; }
+a.sign{background-color: #6ecde5;}
+a.join{background-color:white; color: black; }
+div.button{margin-top: 59px;margin-left: 150px;}
+h1.hhx{  padding-top: 0px; height: 0px;}
+h1.hhz{height: 0px; margin-bottom: 190px;}
+h1.course{margin-left: 510px; font-size: 39px; margin-top: 100px; margin-bottom: -80px;}
+div.items{ justify-content: center; align-items: center; margin: auto; display: flex; height: 600px; }
+div.item{height: 370px; width: 31%; border:2px solid rgba(40,38,56,0.2); border-radius: 18px; margin: 8px;}
+div.item img {margin-left: 113px; margin-top: 39px; }
+ h4{background-color: royalblue; color: white;font: 56px; margin-left: 80px; margin-right: 20px; padding-left: 80px; padding-right: 30px; width: 39%; line-height:44px; }
+div.item {color:cornflowerblue;}
+div.item h3{margin-left: 244px;}
+div.help{background-color: gainsboro; height:900px;}
+div.contx p{color: white; margin-left:149px; font-size: 58px; margin-bottom: 0px;}
+div.button{ display: flex; margin-bottom: 90px; margin-top: 0px; }
+div.help h3{ font-size: 50px; margin-left: 370px; padding: 74px; margin-bottom: 0px;}
+div.td{background-color: white;  height: 223px;  width: 40%; margin: 65px; margin-bottom: 0px; border-radius: 12px;}
+div.tr{display: flex; }
+div.all{margin-bottom:  323px;justify-content: space-around; align-items: center; margin: auto;  }
+div.td img{margin-left: 333px; margin-top: 5px; display: flex;}
+div.contacts{height: 499px; display: flex;}
+h2.jj{margin-left: 420px; margin-top: 10px;font-size: 40px; }
+div.contact{ width: 40%;}
+div.contacts img{margin-top: 60px; margin-left: 23px; margin-bottom: 45px; }
+div.contact h4 {margin-left: 93px; margin-top: 45px; }
+div.join input{padding: 10px;display: flex; flex-direction: column;border-color: gray; margin-bottom: 9px; border:1px solid gray; padding-right: 100px; padding-left: 100px; margin-left: -90px; }
+div.navb{background-color: white;}
+div.navb img{margin-left: 56px;}
+div.join button{padding: 10px;padding-left: 173px; padding-right: 173px; margin-left: -100px; background-color: #007bff;  border :none; color: white; margin-left: -90px;}
+div.join{margin: auto; justify-content: center; align-items: center; margin-left: 522px; margin-top: 93px;}
+div.join p, .join a{font-size: 35px;}
+.join a{font-size: 20px;}
+.sign h6{margin: 0px; padding: 0px; font-size: 15px;}
+.flexf{display: flex;justify-content: space-between ; margin-left: -99px;padding-right: 349px; }
+.flex f h6{margin: -19px;}
+    .footer h4 {width: 80%; background-color:#6ecde5; margin-right: 100px; }
+
